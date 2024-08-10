@@ -1,7 +1,5 @@
 # About
 Our Team
-
-
 ### CEO - https://t.me/AssisFiwt
 
 

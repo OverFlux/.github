@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+![Alt текст](images/goalbassa.jpg)
 
 **Here are some ideas to get you started:**
 
