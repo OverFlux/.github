@@ -22,8 +22,8 @@ We're eager to take on new challenges and collaborate with like-minded individua
 
 ### Meet the Team
 
-- **CEO**: [Connect on Telegram](https://t.me/AssisFiwt)
-- **CTO**: [Connect on Telegram](https://t.me/Ruberoid36)
+- **CEO**: Dmitry - [Connect on Telegram](https://t.me/AssisFiwt)
+- **CTO**: Egor - [Connect on Telegram](https://t.me/Ruberoid36)
 
 ![Teamwork](images/dev.png)
 
