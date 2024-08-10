@@ -1,4 +1,5 @@
 # Welcome to OverFlux!
+![overflux-logo](https://github.com/user-attachments/assets/3c393c87-c7a9-4931-8148-ec40758e6a24)
 
 ## About Us
 
