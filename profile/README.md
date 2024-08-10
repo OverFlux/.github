@@ -16,8 +16,6 @@ At OverFlux, we work across a variety of domains including web development, data
 - **Flexibility**: We adapt to your project needs, whether it's a short-term task or a long-term collaboration.
 - **Innovation**: We love to push the boundaries, bringing fresh ideas and cutting-edge solutions to every project.
 
-![Coding](images\code.gif)
-
 ## Let's Collaborate!
 
 We're eager to take on new challenges and collaborate with like-minded individuals and organizations. If you're interested in working with OverFlux, don't hesitate to reach out!
