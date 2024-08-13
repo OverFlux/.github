@@ -23,8 +23,8 @@ We’re always up for new challenges and keen to work with individuals and organ
 
 ### Meet the Team
 
-- **CEO**: Dmitry - [Connect on Telegram](https://t.me/AssisFiwt)
-- **CTO**: Egor - [Connect on Telegram](https://t.me/Ruberoid36)
+- **Founder**: Dmitry - [Connect on Telegram](https://t.me/AssisFiwt)
+- **CEO**: Egor - [Connect on Telegram](https://t.me/Ruberoid36)
 
 ![Teamwork](images/dev.png)
 
